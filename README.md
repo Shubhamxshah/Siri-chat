@@ -114,7 +114,7 @@ If you're accessing the application on the Safari browser, you might get the `No
 
 ## Contributors Guide
 
-1. Fork [this repository](https://github.com/BolajiAyodeji/chat-with-siri) (learn how to do this [here](https://help.github.com/articles/fork-a-repo)).
+1. Fork [this repository](https://github.com/Shubhamxshah/chat-with-siri) (learn how to do this [here](https://help.github.com/articles/fork-a-repo)).
 
 2. Clone the forked repository like so:
 

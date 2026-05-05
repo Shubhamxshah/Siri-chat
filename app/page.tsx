@@ -101,7 +101,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://github.com/BolajiAyodeji/chat-with-siri"
+          href="https://github.com/Shubhamxshah/chat-with-siri"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300"
           target="_blank"
           rel="noopener noreferrer"
@@ -130,7 +130,7 @@ export default function Home() {
         <p className="text-center">
           &copy;{" "}
           <a href="https://bolajiayodeji.com" target="_blank" rel="noopener noreferrer">
-            Bolaji Ayodeji
+            shubhamxshah
           </a>{" "}
           | 2024 - {new Date().getFullYear()}
         </p>
